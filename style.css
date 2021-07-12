@@ -116,6 +116,36 @@ hr{
 .fa-star.empty{
   color: #AEAEAE;
 }
+/*  footer -area */
+footer{
+    background-color:gray;
+    
+}
+.section-area{
+    display:flex;
+}
+.article{
+    width: 50%;
+    padding: 20px;
+}
+.article img{
+    width: 200px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 /* -----------------
 media queries
