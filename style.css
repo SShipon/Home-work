@@ -155,7 +155,7 @@ media queries
     .container{
         width: 100%;
     } 
-    .players, .blogs, .courses{
+    .players, .blogs, .courses,.article{
         background-color: rgb(213, 205, 221);
         grid-template-columns: repeat(1, 1fr);
     }
@@ -167,7 +167,7 @@ media queries
         .container{
             width: 100%;
         }
-        .players, .courses{
+        .players, .courses,.article{
            grid-template-columns: repeat(2, 1fr);
         }
        .blogs{
